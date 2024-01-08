@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "trilha-net-poo-desafio-main", "trilha-net-poo-desafio-main", "{06C5FCA3-412D-45D4-9ACD-2455BACD2498}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioPOO", "trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\DesafioPOO.csproj", "{ECD4F8C2-2E90-45A1-8C10-61815FD13DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD4F8C2-2E90-45A1-8C10-61815FD13DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD4F8C2-2E90-45A1-8C10-61815FD13DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD4F8C2-2E90-45A1-8C10-61815FD13DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD4F8C2-2E90-45A1-8C10-61815FD13DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ECD4F8C2-2E90-45A1-8C10-61815FD13DDA} = {06C5FCA3-412D-45D4-9ACD-2455BACD2498}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8EE02E1-EDD1-41C9-B605-FF8DB31C8FC6}
+	EndGlobalSection
+EndGlobal
